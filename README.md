@@ -1,6 +1,6 @@
 # About
 
-As a part of my Consultation and Communication for Statisticians course (STAT 4893W), we we're tasked with completing a Capstone project, which included statistical analysis and a written report. Amongst the three options provided, I decided to conduct my analysis on a dataset comprised of 517 forest fire incidents in Portugal, which included various spatial, temporal, and meteorological variables. 
+As a part of my Consultation and Communication for Statisticians course (STAT 4893W), we were tasked with completing a Capstone project, which included statistical analysis and a written report. Amongst the three options provided, I decided to conduct my analysis on a dataset comprised of 517 forest fire incidents in Portugal, which included various spatial, temporal, and meteorological variables. 
 
 This repository includes my statistical analysis conducted in R Studio, the forest fire dataset, and my written report.
 
